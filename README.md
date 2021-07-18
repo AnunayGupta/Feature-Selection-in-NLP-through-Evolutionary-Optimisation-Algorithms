@@ -13,6 +13,10 @@ In our project we mainly use the following two evolutionary Algorithms- <br>
 #### Our Technique
 We experimented with combining both pso and G.A. Since each offered its own set of advantages. A major problem we observed while experimenting with genetic algorithm is that it works very well and reaches global optimum when initialised with a good population. We thus run PSO first to get a good population, Then genetic algorithm is intialised with this population. The algorithm followed is as follows- <br>
 
+![ALgorithm](https://github.com/AnunayGupta/Feature-Selection-in-NLP-through-Evolutionary-Optimisation-Algorithms/blob/34b101dbf151fcec1e7bf70cd594a9e8cafb6b29/Static/Screenshot%202021-07-18%20at%201.27.37%20AM.png)
+![ALgorithm](https://github.com/AnunayGupta/Feature-Selection-in-NLP-through-Evolutionary-Optimisation-Algorithms/blob/34b101dbf151fcec1e7bf70cd594a9e8cafb6b29/Static/Screenshot%202021-07-18%20at%201.27.48%20AM.png)
+![ALgorithm](https://github.com/AnunayGupta/Feature-Selection-in-NLP-through-Evolutionary-Optimisation-Algorithms/blob/34b101dbf151fcec1e7bf70cd594a9e8cafb6b29/Static/Screenshot%202021-07-18%20at%201.27.56%20AM.png)
+
 
 #### Datasets
 * [Jruvika](https://www.kaggle.com/jruvika/datasets)
