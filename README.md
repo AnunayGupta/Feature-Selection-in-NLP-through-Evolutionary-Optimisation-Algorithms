@@ -33,3 +33,5 @@ We experimented with combining both pso and G.A. Since each offered its own set 
 * TF-IDF - is a statistical measure that evaluates how relevant a word is to a document in a collection of documents. This is done by multiplying two metrics: how many times a word appears in a document, and the inverse document frequency of the word across a set of documents
 
 #### Resuts
+![Results](https://github.com/AnunayGupta/Feature-Selection-in-NLP-through-Evolutionary-Optimisation-Algorithms/blob/bcfb921b18c8e293d438a4ea313593ad5a898654/Static/Screenshot%202021-07-18%20at%201.53.05%20AM.png)
+![Results](https://github.com/AnunayGupta/Feature-Selection-in-NLP-through-Evolutionary-Optimisation-Algorithms/blob/bcfb921b18c8e293d438a4ea313593ad5a898654/Static/Screenshot%202021-07-18%20at%201.53.19%20AM.png)
