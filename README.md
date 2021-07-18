@@ -20,6 +20,9 @@ We experimented with combining both pso and G.A. Since each offered its own set 
 * [Buzzfeed](https://www.kaggle.com/sohamohajeri/buzzfeed-news-analysis-and-classification)
 * [Covid](https://competitions.codalab.org/competitions/26655)
 
+![Dataset balanced visualisation](https://github.com/AnunayGupta/Feature-Selection-in-NLP-through-Evolutionary-Optimisation-Algorithms/blob/e5092b845fe66e5eda27c6a847dcaa3e8208928b/Static/Screenshot%202021-07-18%20at%201.53.37%20AM.png "This is a sample image.")
+
+
 #### Types of features experimented with
 * Word2Vec - is a two-layer neural net that processes text by “vectorizing” words. Its input is a text corpus and its output is a set of vectors: feature vectors that represent words in that corpus. While Word2vec is not a deep neural network, it turns text into a numerical form that deep neural networks can understand.
 * Doc2Vec -  is an NLP tool for representing documents as a vector and is a generalizing of the word2vec method.
